@@ -3,8 +3,8 @@
   "private": true,
   "version": "0.0.0",
   "description": "A tutorial application for AngularJS",
-  "repository": "https://github.com/angular/angular-phonecat",
-  "license": "MIT",
+  "repository": "https://github.com/tunedinout/angular-phonecat",
+  "license": "Free",
   "dependencies": {
     "angular": "1.7.x",
     "angular-animate": "1.7.x",
